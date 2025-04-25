@@ -40,8 +40,9 @@ pip install -r requirements.txt
 python src/analyzer.py
 
 ```
-##🧱 Estrutura básica de pastas
+## 🧱 Estrutura básica de pastas
 
+```text
 vaga-match/
 │
 ├── data/                  # Currículos e vagas (PDFs, .txt) - Exemplo, ajuste conforme necessário
