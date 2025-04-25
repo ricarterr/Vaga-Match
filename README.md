@@ -35,3 +35,24 @@ pip install -r requirements.txt
 
 # Execute o analisador
 python src/analyzer.py
+
+
+🧱 Estrutura básica de pastas
+
+vaga-match/
+│
+├── data/                  # Currículos e vagas (PDFs, .txt)
+│
+├── src/                   # Código-fonte
+│   ├── extractor.py       # Leitura e correção do texto
+│   ├── analyzer.py        # Analisador de currículo x vaga
+│   └── recommender.py     # Sugestão de melhorias
+│
+├── requirements.txt       # Lista de dependências
+├── README.md              # Apresentação do projeto
+└── .gitignore             # Ignorar arquivos indesejados (explicado abaixo)
+
+
+✍️ Autor
+Desenvolvido por Pedro Ricarte
+GitHub: @ricarterr
