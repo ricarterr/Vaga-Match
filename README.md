@@ -26,7 +26,7 @@ Também sugere melhorias no currículo com base na vaga.
 
 ## 📂 Como usar
 
-``bash
+```bash
 # Clone o projeto
 git clone https://github.com/ricarterr/Vaga-Match.git
 
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 # Execute o analisador (exemplo)
 python src/analyzer.py
 
-``
+```
 ##🧱 Estrutura básica de pastas
 
 vaga-match/
