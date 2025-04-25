@@ -1,0 +1,17 @@
+```gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.log
+
+# Dados
+*.pdf
+*.txt
+
+# IDEs e sistema
+.vscode/
+.env
+.DS_Store
