@@ -26,7 +26,7 @@ Também sugere melhorias no currículo com base na vaga.
 
 ## 📂 Como usar
 
-```bash
+``bash
 # Clone o projeto
 git clone https://github.com/ricarterr/Vaga-Match.git
 
@@ -39,7 +39,8 @@ pip install -r requirements.txt
 # Execute o analisador (exemplo)
 python src/analyzer.py
 
-🧱 **Estrutura básica de pastas**
+``
+##🧱 Estrutura básica de pastas
 
 vaga-match/
 │
@@ -55,7 +56,7 @@ vaga-match/
 ├── README.md              # Apresentação do projeto
 └── .gitignore             # Ignorar arquivos indesejados
 
-**
+
 ⚠️ Licenciamento Importante ⚠️
 Este projeto opera sob um modelo de licenciamento duplo:
 Uso Pessoal / Não Comercial:
@@ -72,4 +73,4 @@ Ao usar este software, você concorda com os termos de licenciamento aplicáveis
 
 ✍️ Autor
 Desenvolvido por Pedro Ricarte
-GitHub: @ricarterr **
+GitHub: @ricarterr 
