@@ -20,7 +20,7 @@ Concedemos a você uma licença limitada, revogável, não exclusiva e intransfe
 
 ## Licença Comercial
 
-Qualquer uso não explicitamente permitido por esta licença não comercial, **incluindo todo e qualquer Uso Comercial**, é estritamente proibido e **requer uma licença comercial separada** obtida diretamente do detentor dos direitos autorais (`[Seu Nome ou Nome da Empresa/Apelido]`).
+Qualquer uso não explicitamente permitido por esta licença não comercial, **incluindo todo e qualquer Uso Comercial**, é estritamente proibido e **requer uma licença comercial separada** obtida diretamente do detentor dos direitos autorais (Pedro Ricarte).
 
 Para obter uma licença comercial, entre em contato com: pedrorcrt12@gmail.com
 
